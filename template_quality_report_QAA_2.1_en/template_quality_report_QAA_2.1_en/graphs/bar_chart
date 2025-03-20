@@ -8,19 +8,13 @@
 ////////////////////////////////////////////////////////////////
 ///////////////ИНФОРМАЦИЯ ОТОБРАЖЕННАЯ НА ГРАФИКЕ///////////////
                 ['Module name', 'Defects'],
-                ["Module 2", 43],
-                ["Authorization", 42],
-                ["Module 7", 33],
-                ["Module 11", 31],
-                ["Module 5", 28],
-                ["Module 4", 24],
-                ["Module 6", 16],
-                ["Module 3", 15],
-                ["Module 10", 12],
-                ["Module 8", 9],
-                ["Module 9", 7],
-                ["Module 1", 7],
-                ["Socials", 6]
+                ["GUI", 9],
+                ["Optimize", 8],
+                ["Ins/Unins(tallation)", 4],
+                ["Main window & File menu", 3],
+                ["Options menu", 2],
+                ["Create Gallery", 1],
+                ["Help menu", 1]
 //////////////////////////////////////////////////////////////
             ]);
 
